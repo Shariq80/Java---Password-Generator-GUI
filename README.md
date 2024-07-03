@@ -29,3 +29,6 @@ The Password Generator GUI is a Java application designed to generate random pas
   java passwordGeneratorGUI
 ```
 
+## Screenshot
+
+![screenshot of GUIWindow](./screenshot/screenshot.png)
